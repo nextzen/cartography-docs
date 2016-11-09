@@ -1,8 +1,8 @@
-# House Styles
+# Basemap Styles
 
 Use gorgeous 2D and 3D basemap styles created by Mapzen's expert cartographers for Tangram.
 
-As Mapzen's house styles are still in active development we recommend peggging an import to a specific **MAJOR** version, eg: `5`, so you enjoy any minor and patch updates but are ensured of stable named scene elements.
+As Mapzen's basemap styles are still in active development we recommend peggging an import to a specific **MAJOR** version, eg: `5`, so you enjoy any minor and patch updates but are ensured of stable named scene elements.
 
 We only recommend pegging to the **LATEST** vesion if you are not modifying documented API scene elements.
 
@@ -11,6 +11,19 @@ We only recommend pegging to the **LATEST** vesion if you are not modifying docu
 A full-featured wayfinding style loaded with helpful icons for points of interest. See it in action in our very own [Eraser Map on Android](https://mapzen.com/blog/erasermap-beta/).
 
 Bubble Wrap is only available in the "more labels" version.
+
+**Supported:**
+
+* Language
+* Map sandwiches
+* Transit overlay
+* Default draw styles
+* Basic user experience styles
+* Transit user experience styles
+
+**Not supported:**
+
+* None
 
 **Try Bubble Wrap:** [default](https://mapzen.com/products/maps/bubble-wrap)
 
@@ -25,6 +38,18 @@ Current **MAJOR** release (includes any minor and patch updates):
 ## Refill
 
 A minimalist map style designed for data visualization overlays. Inspired by the seminal Toner style by Stamen Design.
+
+**Supported:**
+
+* Language
+* Map sandwiches
+* Default draw styles
+* Basic user experience styles
+
+**Not supported:**
+
+* Transit overlay
+* Transit user experience styles
 
 **Try Refill:** [default](https://mapzen.com/products/maps/refill) | [more labels](https://mapzen.com/products/maps/refill/more-labels) | [no labels](https://mapzen.com/products/maps/refill/no-labels)
 
@@ -44,6 +69,19 @@ Current **MAJOR** versioned release (includes any minor and patch updates):
 
 This outdoor style is perfect for hiking or getting out and about, with mountains, ski trails, biking paths, and transit stops.
 
+**Supported:**
+
+* None
+
+**Not supported:**
+
+* Language
+* Map sandwiches
+* Transit overlay
+* Default draw styles
+* Basic user experience styles
+* Transit user experience styles
+
 **Try Walkabout:** [default](https://mapzen.com/products/maps/walkabout) | [more labels](https://mapzen.com/products/maps/walkabout/more-labels) | [no labels](https://mapzen.com/products/maps/walkabout/no-labels)
 
 Current **MAJOR** versioned release (includes any minor and patch updates):
@@ -61,6 +99,18 @@ Current **MAJOR** versioned release (includes any minor and patch updates):
 ## Tron
 
 Will autonomous cars dream as they charge overnight? We’re pushing mapping to new extremes with Tron, and it will push your GPU and fan to the limit.
+
+**Supported:**
+
+* Language
+* Map sandwiches
+* Default draw styles
+* Basic user experience styles
+* Transit user experience styles
+
+**Not supported:**
+
+* Transit overlay
 
 **Try Tron:** [default](https://mapzen.com/products/maps/tron) | [more labels](https://mapzen.com/products/maps/tron/more-labels) | [no labels](https://mapzen.com/products/maps/tron/no-labels)
 
@@ -80,6 +130,18 @@ Current **MAJOR** versioned release (includes any minor and patch updates):
 
 A classic web map style for general mapping applications.
 
+**Supported:**
+
+* Default draw styles
+* Basic user experience styles
+
+**Not supported:**
+
+* Language
+* Map sandwiches
+* Transit overlay
+* Transit user experience styles
+
 **Try Cinnabar:** [default](https://mapzen.com/products/maps/cinnabar) | [more labels](https://mapzen.com/products/maps/cinnabar/more-labels) | [no labels](https://mapzen.com/products/maps/cinnabar/no-labels)
 
 Current **MAJOR** versioned release (includes any minor and patch updates):
@@ -97,6 +159,18 @@ Current **MAJOR** versioned release (includes any minor and patch updates):
 ## Zinc
 
 A dark, minimalist style that helps bright data overlays stand out. A great alternative to Refill.
+
+**Supported:**
+
+* Default draw styles
+* Basic user experience styles
+
+**Not supported:**
+
+* Language
+* Map sandwiches
+* Transit overlay
+* Transit user experience styles
 
 **Try Zinc:** [default](https://mapzen.com/products/maps/zinc) | [more labels](https://mapzen.com/products/maps/zinc/more-labels) | [no labels](https://mapzen.com/products/maps/zinc/no-labels)
 

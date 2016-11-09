@@ -26,7 +26,7 @@ Semantic versioning (or [SemVer](http://semver.org/)) is a formalized way of mak
 
 **MAJOR versions**
 
-As Mapzen's house styles are still in active development we recommend peggging an import to a specific major version, eg: `5`, so you enjoy any minor and patch updates but are ensured of stable named scene elements.
+As Mapzen's house styles are still in active development we recommend pegging an import to a specific major version, eg: `5`, so you enjoy any minor and patch updates but are ensured of stable named scene elements.
 
 ```
 import: https://mapzen.com/carto/refill-style-more-labels/5/refill-style-more-labels.yaml
@@ -34,7 +34,7 @@ import: https://mapzen.com/carto/refill-style-more-labels/5/refill-style-more-la
 
 **LATEST versions**
 
-We only recommend pegging to the **latest** vesion if you are not modifying documented API scene elements.
+We only recommend pegging to the **latest** version if you are not modifying documented API scene elements.
 
 ```
 import: https://mapzen.com/carto/refill-style-more-labels/refill-style-more-labels.yaml
@@ -42,11 +42,11 @@ import: https://mapzen.com/carto/refill-style-more-labels/refill-style-more-labe
 
 **MINOR versions**
 
-We don't recommend pegging to a **minor** vesion.
+We don't recommend pegging to a **minor** version.
 
 **PATCH versions**
 
-We don't recommend pegging to a **patch** vesion.
+We don't recommend pegging to a **patch** version.
 
 
 ## Promises
